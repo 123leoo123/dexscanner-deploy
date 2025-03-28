@@ -1,0 +1,542 @@
+[
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "881736902.5639",
+        "volume_usd_24h": "371781826.162669",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "32910483.241",
+        "volume_usd_24h": "156560350.450763",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "1000327.1184",
+        "volume_usd_24h": "58765562.3481672",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "4002830.8808",
+        "volume_usd_24h": "52647386.6386066",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "8823762.1806",
+        "volume_usd_24h": "43437666.2734241",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "4172733.2489",
+        "volume_usd_24h": "41236240.9870677",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "427119.6198",
+        "volume_usd_24h": "33625109.9679006",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "92714.3261",
+        "volume_usd_24h": "33313609.2551829",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "30170621.3244",
+        "volume_usd_24h": "26787212.4271497",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "374289391.4353",
+        "volume_usd_24h": "24058112.8723423",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "1882679.7384",
+        "volume_usd_24h": "23746206.7235041",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "193775.2223",
+        "volume_usd_24h": "22134556.1041009",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "9.6523",
+        "volume_usd_24h": "20848969.8538776",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "108.9931",
+        "volume_usd_24h": "19306976.5880705",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "49590.9064",
+        "volume_usd_24h": "17775335.4559579",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "10163718.8725",
+        "volume_usd_24h": "17120678.04533",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "7231809.7715",
+        "volume_usd_24h": "15650184.4950587",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "8.3831",
+        "volume_usd_24h": "14941114.5527157",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "1470039.8876",
+        "volume_usd_24h": "14766095.438557",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "356480.8796",
+        "volume_usd_24h": "14466154.240937",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "5521026.5272",
+        "volume_usd_24h": "14146045.7568114",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "2190534.2888",
+        "volume_usd_24h": "13842277.4340667",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "722672029.9523",
+        "volume_usd_24h": "12500150.7467243",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "9631930.1182",
+        "volume_usd_24h": "12470748.1932387",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "38907.0811",
+        "volume_usd_24h": "12053276.2602434",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "15793145.6209",
+        "volume_usd_24h": "11972646.4146518",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "813160.0566",
+        "volume_usd_24h": "11649481.0196916",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "1155.6718",
+        "volume_usd_24h": "11541620.5324612",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "94728.7371",
+        "volume_usd_24h": "10555894.9903658",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "3754496.3156",
+        "volume_usd_24h": "10120914.2249018",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "202784.8709",
+        "volume_usd_24h": "9487151.69849842",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "521174039.5616",
+        "volume_usd_24h": "9457891.32704354",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "88263.3805",
+        "volume_usd_24h": "9332122.83736564",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "4005058.4567",
+        "volume_usd_24h": "9320953.06373767",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "275586.2376",
+        "volume_usd_24h": "9268126.98503623",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "69.1587",
+        "volume_usd_24h": "9023968.42464156",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "15694885.7511",
+        "volume_usd_24h": "8740157.65749132",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "7702759.862",
+        "volume_usd_24h": "8737627.78085339",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "10249563.5807",
+        "volume_usd_24h": "8725097.59417614",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "2277426.8266",
+        "volume_usd_24h": "8293664.79181434",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "493502697.6997",
+        "volume_usd_24h": "7688070.49305545",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "18.3918",
+        "volume_usd_24h": "7599902.48497519",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "1834574.8381",
+        "volume_usd_24h": "7458043.36791406",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "586250.1328",
+        "volume_usd_24h": "7441217.89174532",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "412843.3943",
+        "volume_usd_24h": "7356616.05693601",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "504097883.2983",
+        "volume_usd_24h": "7062458.38745688",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "2555446.7718",
+        "volume_usd_24h": "6918292.85317225",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "6463.8135",
+        "volume_usd_24h": "6910953.52254106",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "2952715.9965",
+        "volume_usd_24h": "6590660.82099517",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "1607844.6528",
+        "volume_usd_24h": "6514662.69666299",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "2874.5443",
+        "volume_usd_24h": "6149984.24081496",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "1257162.7282",
+        "volume_usd_24h": "5974196.01618029",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "1802466.5402",
+        "volume_usd_24h": "5945008.09640029",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "4165300.1123",
+        "volume_usd_24h": "5781834.46547555",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "12371.3131",
+        "volume_usd_24h": "5378092.21844949",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "690133.6999",
+        "volume_usd_24h": "5344816.7315656",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "19728.4379",
+        "volume_usd_24h": "5185119.33537544",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "5207.0406",
+        "volume_usd_24h": "5096664.45242308",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "7464158.9209",
+        "volume_usd_24h": "5072816.94295734",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    },
+    {
+        "name": null,
+        "symbol": null,
+        "price_usd": null,
+        "liquidity_usd": "134285.2321",
+        "volume_usd_24h": "5012490.89258593",
+        "pool_created_at": null,
+        "updated_at": "2025-03-28T04:31:56.344691"
+    }
+]

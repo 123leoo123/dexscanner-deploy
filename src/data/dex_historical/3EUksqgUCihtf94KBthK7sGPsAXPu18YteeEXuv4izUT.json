@@ -1,0 +1,13 @@
+{
+  "name": "SPX / SOL",
+  "address": "3EUksqgUCihtf94KBthK7sGPsAXPu18YteeEXuv4izUT",
+  "history": [
+    {
+      "timestamp": "2025-03-28T04:51:44.873365",
+      "price_usd": 7.37156502128895e-07,
+      "volume_usd": 0.0,
+      "liquidity_usd": 0.0,
+      "transactions_24h": 0
+    }
+  ]
+}

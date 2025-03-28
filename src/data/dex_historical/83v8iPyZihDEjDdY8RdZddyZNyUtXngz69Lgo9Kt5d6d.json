@@ -1,0 +1,13 @@
+{
+  "name": "SOL / USDC",
+  "address": "83v8iPyZihDEjDdY8RdZddyZNyUtXngz69Lgo9Kt5d6d",
+  "history": [
+    {
+      "timestamp": "2025-03-28T04:51:44.898221",
+      "price_usd": 134.71,
+      "volume_usd": 1216.6866226024,
+      "liquidity_usd": 0.0,
+      "transactions_24h": 0
+    }
+  ]
+}

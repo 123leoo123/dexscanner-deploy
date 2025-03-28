@@ -1,0 +1,13 @@
+{
+  "name": "S&amp;P500 / SOL",
+  "address": "FQv7SQw7CdUTeDgxxMtxZ7fNukpYiN4aJFJZGyrWhk4H",
+  "history": [
+    {
+      "timestamp": "2025-03-28T04:51:44.863390",
+      "price_usd": 0.000436707970275893,
+      "volume_usd": 0.2587414,
+      "liquidity_usd": 0.0,
+      "transactions_24h": 0
+    }
+  ]
+}
