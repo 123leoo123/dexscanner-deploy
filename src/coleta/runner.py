@@ -1,15 +1,24 @@
 import time
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 from coleta import gecko, token_metrics
 
-def run_loop():
-    print("🔁 Iniciando coleta contínua...")
-    while True:
-        try:
-            gecko.coletar_top500()
-            token_metrics.coletar_metricas_tokens()
-        except Exception as e:
-            print(f"❌ Erro durante a coleta: {e}")
-        time.sleep(300)  # 5 minutos entre coletas
+print("🚀 Iniciando coleta contínua da DEX e CoinGecko...")
 
-if __name__ == "__main__":
-    run_loop()
+while True:
+    try:
+        print("🔄 Executando gecko.py...")
+        gecko.main()
+        
+        print("🔄 Executando token_metrics.py...")
+        token_metrics.main()
+
+        print("⏳ Aguardando 10 minutos para próxima coleta...\n")
+        time.sleep(600)  # 10 minutos
+
+    except Exception as e:
+        print(f"❌ Erro na execução: {e}")
+        print("⏳ Tentando novamente em 5 minutos...\n")
+        time.sleep(300)  # Espera 5 minutos em caso de erro
