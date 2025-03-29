@@ -6,8 +6,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-MONGO_URI = os.getenv("MONGO_URI")
-client = MongoClient(MONGO_URI)
+MONGO_URL = os.getenv("MONGO_URL")
+client = MongoClient(MONGO_URL)
 
 db = client["dexScannerDeploy"]
 collection = db["tokens_dex"]
